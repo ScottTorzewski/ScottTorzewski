@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ Latest Projects:
 
-🔹 **[Using Regression to Approximate 3D Printing Parameters](https://github.com/ScottTorzewski/3D-Printing-Regression)**  
+🔹 **[Using Regression to Approximate 3D Printing Parameters](https://github.com/ScottTorzewski/3D-Printing-ML-Model)**  
   Applying regression models to optimize and predict 3D printing parameters for improved accuracy and efficiency.
 
 🔹 **[Predicting Manufacturing Defects](https://github.com/ScottTorzewski/Manufacturing-Defects-Prediction)**  
