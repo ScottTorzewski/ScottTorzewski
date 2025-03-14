@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="150"/>
+<div align="center">
+  <h1>✨ Scott Torzewski ✨</h1>
 </div>
 
 <div id="badges" align="center">
@@ -11,17 +11,7 @@
   </a>
 </div>
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ScottTorzewski&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <h1>
-    Welcome!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="600" height="300"/>
@@ -38,7 +28,6 @@ I'm Scott Torzewski, an enthusiastic developer interested in data analysis.
 - 👀 I’m passionate about machine learning and applied statistics.
 - ✍️ I love sharing knowledge and collaborating across disciplines.
 - ⚡  In my free time, I enjoy building 3D designs, soldering circuits, playing the piano, and snowboarding!
-- 📫 How to reach me: &nbsp; [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-torzewski-265599183/)
 
 <!---
 ScottTorzewski/ScottTorzewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,7 +50,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ScottTorzewski&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ScottTorzewski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -69,9 +57,17 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ Latest Projects:
 
+### 🛠️ Latest Projects:
+
 🔹 **[Using Regression to Approximate 3D Printing Parameters](https://github.com/ScottTorzewski/3D-Printing-ML-Model)**  
   Applying regression models to optimize and predict 3D printing parameters for improved accuracy and efficiency.
 
-🔹 **[Predicting Manufacturing Defects](https://github.com/ScottTorzewski/Manufacturing-Defects-Prediction)**  
-  Developing a predictive model to identify potential manufacturing defects and enhance quality control.
+🔹 **[Manufacture Defect Analysis & Optimization Dashboard](https://github.com/ScottTorzewski/Manufacturing-Defects-Prediction)**  
+  Analyzing defect rates in a manufacturing environment to identify key factors influencing defects and propose data-driven optimizations.
+
+---
+
+  ### 📫 Get in Touch  
+📩 **Email**: torzewskis@gmail.com  
+🌎 **Website/Portfolio**: *Coming Soon!*  
 
