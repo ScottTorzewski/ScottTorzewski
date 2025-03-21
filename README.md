@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 🔹 **[Using Regression to Approximate 3D Printing Parameters](https://github.com/ScottTorzewski/3D-Printing-ML-Project)**  
   Applying regression models to optimize and predict 3D printing parameters for improved accuracy and efficiency.
 
-🔹 **[Manufacture Defect Analysis & Optimization Dashboard](https://github.com/ScottTorzewski/Manufacture-Defect-ML-Project)**  
+🔹 **[Manufacture Defect Analysis & Optimization](https://github.com/ScottTorzewski/Manufacture-Defect-ML-Project)**  
   Analyzing defect rates in a manufacturing environment to identify key factors influencing defects and propose data-driven optimizations.
 
 ---
