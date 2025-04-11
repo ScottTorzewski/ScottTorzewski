@@ -57,11 +57,14 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ Latest Projects:
 
-🔹 **[Using Regression to Approximate 3D Printing Parameters](https://github.com/ScottTorzewski/3D-Printing-ML-Project)**  
-  Applying regression models to optimize and predict 3D printing parameters for improved accuracy and efficiency.
+🔹 **[EnergiX Sim Suite: Hybrid ML & FPGA Inference System](https://github.com/ScottTorzewski/energiX-sim)**  
+  A full-stack simulation pipeline that compares machine learning in Python with real-time hardware logic on an FPGA. Includes synthetic sensor generation, dynamic risk scoring, simulation testbench, and an interactive Streamlit dashboard for inference comparison.
 
 🔹 **[Manufacture Defect Analysis & Optimization](https://github.com/ScottTorzewski/Manufacture-Defect-ML-Project)**  
   Analyzing defect rates in a manufacturing environment to identify key factors influencing defects and propose data-driven optimizations.
+
+🔹 **[Using Regression to Approximate 3D Printing Parameters](https://github.com/ScottTorzewski/3D-Printing-ML-Project)**  
+  Applying regression models to optimize and predict 3D printing parameters for improved accuracy and efficiency.
 
 ---
 
