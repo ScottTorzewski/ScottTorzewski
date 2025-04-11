@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Crystal_Clear_app_ktechlab.png/600px-Crystal_Clear_app_ktechlab.png" title="SystemVerilog" alt="SystemVerilog" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Xilinx_Logo.svg/2560px-Xilinx_Logo.svg.png" title="SystemVerilog (Vivado)" alt="Vivado" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
