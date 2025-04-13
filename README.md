@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/scott-torzewski-265599183/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/ScottTorzewski/ScottTorzewski/raw/main/Electrical & Computer Engineering Resume.docx.pdf" download>
+  <a href="https://github.com/ScottTorzewski/ScottTorzewski/raw/main/Electrical & Computer Engineering Resume.docx (5).pdf" download>
     <img src="https://img.shields.io/badge/Resume-gold?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
