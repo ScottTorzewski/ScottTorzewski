@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 
 Welcome to my GitHub Profile! 👋
-I'm Scott Torzewski, an enthusiastic developer interested in data analysis.
+I'm Scott Torzewski, an enthusiastic developer interested in hardware design and data analysis.
 
 - 💻 Currently, I'm completing my Bachelor of Science in Electrical & Computer Engineering, with a minor in Mathematics.
 - 👀 I’m passionate about machine learning and applied statistics.
