@@ -22,10 +22,10 @@
 ### :man_technologist: About Me :
 
 Welcome to my GitHub Profile! 👋
-I'm Scott Torzewski, an enthusiastic developer interested in hardware design and data analysis.
+I'm Scott Torzewski, an enthusiastic engineer interested in hardware design, biomedical systems, and data analysis.
 
-- 💻 Currently, I'm completing my Bachelor of Science in Electrical & Computer Engineering, with a minor in Mathematics.
-- 👀 I’m passionate about machine learning and applied statistics.
+- 💻 I recently graduated from Lafayette College with a Bachelor of Science in Electrical & Computer Engineering and a minor in Mathematics.
+- 👀 I’m passionate about utilizing the engineering design process to improve our quality of life.
 - ✍️ I love sharing knowledge and collaborating across disciplines.
 - ⚡  In my free time, I enjoy building 3D designs, soldering circuits, playing the piano, and snowboarding!
 
