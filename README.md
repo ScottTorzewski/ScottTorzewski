@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Scott Torzewski ✨</h1>
+  <h1>✨ ⚡🧬Scott Torzewski 🧬⚡</h1>
 </div>
 
 <div id="badges" align="center">
