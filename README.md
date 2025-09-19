@@ -36,6 +36,15 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+### 🛠️ Portfolio:
+
+🔹 **[Electrical and Computer Engineering](https://github.com/ScottTorzewski/Electrical-and-Computer-Engineering)**  
+
+🔹 **[Biomedical Engineering](https://github.com/ScottTorzewski/Biomedical-Engineering)**  
+
+🔹 **[Machine Learning and Statistics](https://github.com/ScottTorzewski/Machine-Learning-and-Statistics)**  
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -47,16 +56,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 🛠️ Portfolio:
-
-🔹 **[Electrical and Computer Engineering](https://github.com/ScottTorzewski/Electrical-and-Computer-Engineering)**  
-
-🔹 **[Biomedical Engineering](https://github.com/ScottTorzewski/Biomedical-Engineering)**  
-
-🔹 **[Machine Learning and Statistics](https://github.com/ScottTorzewski/Machine-Learning-and-Statistics)**  
 
 ---
 
