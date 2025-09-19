@@ -24,10 +24,10 @@
 Welcome to my GitHub Profile! 👋
 I'm Scott Torzewski, an enthusiastic engineer interested in hardware design, biomedical systems, and data analysis.
 
-- 💻 I recently graduated from Lafayette College with a Bachelor of Science in Electrical & Computer Engineering and a minor in Mathematics.
+- 🖥️ I recently graduated from Lafayette College with a Bachelor of Science in Electrical & Computer Engineering and a minor in Mathematics.
 - 🧬 I’m passionate about utilizing the engineering design process to improve our quality of life.
 - ✍️ I love sharing knowledge and collaborating across disciplines.
-- ⚡  In my free time, I enjoy building 3D designs, soldering circuits, playing the piano, and snowboarding!
+- 🎹  In my free time, I enjoy building 3D designs, soldering circuits, playing the piano, and snowboarding!
 
 <!---
 ScottTorzewski/ScottTorzewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
