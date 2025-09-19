@@ -50,8 +50,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
----
-
 ### 🛠️ Latest Projects:
 
 🔹 **[EnergiX Sim Suite: Hybrid ML & FPGA Inference System](https://github.com/ScottTorzewski/energiX-sim)**  
