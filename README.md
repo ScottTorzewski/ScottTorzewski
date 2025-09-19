@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🛠️ Latest Projects:
+### 🛠️ Projects:
 
 🔹 **[EnergiX Sim Suite: Hybrid ML & FPGA Inference System](https://github.com/ScottTorzewski/energiX-sim)**  
   A full-stack simulation pipeline that compares machine learning in Python with real-time hardware logic on an FPGA. Includes synthetic sensor generation, dynamic risk scoring, simulation testbench, and an interactive Streamlit dashboard for inference comparison.
