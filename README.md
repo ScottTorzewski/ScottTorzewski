@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LabVIEW_Logo.png" title="LabVIEW" alt="LabVIEW" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/labview-1.svg" title="LabVIEW" alt="LabVIEW" width="40" height="40"/>
 </div>
 
 ---
