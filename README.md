@@ -57,6 +57,5 @@ You can click the Preview link to take a look at your changes.
 ---
 
   ### 📫 Get in Touch  
-📩 **Email**: torzewskis@gmail.com  
-🌎 **Website/Portfolio**: *Coming Soon!*  
+📩 **Email**: torzewskis@gmail.com    
 
