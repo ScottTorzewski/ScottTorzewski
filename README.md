@@ -19,7 +19,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 Welcome to my GitHub Profile! 👋
 I’m Scott Torzewski, an electrical and computer engineer with a passion for biomedical systems, hardware design, and data-driven analysis.
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🛠️ Portfolio:
+## 🛠️ Portfolio:
 
 🔹 **[Electrical and Computer Engineering](https://github.com/ScottTorzewski/Electrical-and-Computer-Engineering)**  
 
@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 ### ⭐ Please see the README file in each repository for a motivation and general summary of all works.
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -58,6 +58,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-  ### 📫 Get in Touch  
+  ## 📫 Get in Touch  
 📩 **Email**: torzewskis@gmail.com    
 
