@@ -44,7 +44,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔹 **[ML/Data Analysis](https://github.com/ScottTorzewski/ML-Data-Analysis)**  
 
-⭐ Please see the README file in each repository for a motivation and general summary of all works.
+
+*️⃣ Please see the README file in each repository for a motivation and general summary of all works. *️⃣
 
 ---
 ## :hammer_and_wrench: Languages and Tools :
