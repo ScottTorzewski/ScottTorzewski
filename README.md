@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🛠️ Portfolio:
-*️❗ Please see the README file in each repository for a motivation and general summary of all works. ❗️⃣
+*️⃣Please see the README file in each repository for a motivation and general summary of all works.*️⃣
 
 ### 🔹 **[Electrical and Computer Engineering](https://github.com/ScottTorzewski/Electrical-and-Computer-Engineering)**  
 
