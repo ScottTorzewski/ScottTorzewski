@@ -22,12 +22,12 @@
 ## :man_technologist: About Me :
 
 Welcome to my GitHub Profile! 👋
-I’m Scott Torzewski, an electrical and computer engineer with a passion for hardware design, biomedical systems, and biophotonics.
+I’m Scott Torzewski, an electrical engineer with a strong interest in optoelectronics, biomedical systems, and applied photonics. I recently earned a B.S. in Electrical and Computer Engineering with a Mathematics Minor from Lafayette College.
 
-- 🖥️ I recently graduated from Lafayette College with a Bachelor of Science in Electrical & Computer Engineering and a minor in Mathematics.
-- 🧬 I’m passionate about applying the engineering design process to advance physiological monitoring and therapeutic technologies through the integration of electronics, sensors, and computational analysis.
-- ✍️ I enjoy sharing knowledge, tackling interdisciplinary challenges, and translating research ideas into working hardware and data-driven solutions.
-- 🎹 Outside the lab, I build 3D designs, solder electronics, play the piano, and snowboard.
+- 🔬 I’m passionate about designing and prototyping hardare systems that integrate electronics, sensors, and computational analysis to support physiological monitoring and therapeutic technologies.
+- 🧬 I'm particularly interested in advancing biophotonics and bioinstrumentation through optoelectronic system design and data-driven signal processing.
+- 💿 I enjoy tackling interdisciplinary challenges, translating research into real-world solutions, and continuously exploring the intersection of light-based technologies and human health.
+- 💡 Outside the lab, I build 3D designs, solder electronics, play the piano, and snowboard.
 
 <!---
 ScottTorzewski/ScottTorzewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
