@@ -52,9 +52,11 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="./Icons/ltspice.webp" title="LTspice" alt="LTspice" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="./Icons/labview.png" title="LabVIEW" alt="LabVIEW" width="40" height="40"/>
+  <img src="./Icons/altium.png" title="Altium" alt="Altium" width="40" height="40"/>
 </div>
 
 ---
