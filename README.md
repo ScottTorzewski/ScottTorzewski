@@ -24,7 +24,7 @@
 Welcome to my GitHub Profile! 👋
 I’m Scott Torzewski, an electrical engineer passionate about hardware design for biotechnology applications. I recently earned a B.S. in Electrical and Computer Engineering with a Mathematics Minor from Lafayette College.
 
-- 🔬 I’m focused on designing and prototyping hardare systems that integrate optoelectronics, biophotonics, and computational analysis to support physiological monitoring and therapeutic technologies.
+- 🔬 I’m focused on designing and prototyping hardare systems that integrate optoelectronics, biophotonics, and data analysis to support physiological monitoring and therapeutic technologies.
 - 🧬 My interests center on advancing bioinstrumentation through novel analog & mixed-signal IC design architectures.
 - 💿 I enjoy tackling interdisciplinary challenges, translating research into real-world solutions, and exploring the intersection of light-based technologies and human health.
 - 💡 Outside the lab, I build 3D designs, solder electronics, play the piano, and snowboard.
