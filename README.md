@@ -36,8 +36,6 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Portfolio:
 *️⃣ Please see the README file in each repository for a motivation and general summary of all works. *️⃣
 
-### 🔹 **[CURRENT PROJECT: Fluorescence Spectrometer](https://github.com/ScottTorzewski/BioSignal-PCB-System)**
-
 ### 🔹 **[Electrical and Computer Engineering](https://github.com/ScottTorzewski/Electrical-and-Computer-Engineering)**  
 
 ### 🔹 **[Biomedical Engineering](https://github.com/ScottTorzewski/Biomedical-Engineering)**  
