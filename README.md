@@ -19,11 +19,11 @@
 ## :man_technologist: About Me :
 
 Welcome to my GitHub Profile! 👋
-I’m Scott Torzewski, an electrical engineer passionate about hardware design for biotechnology applications. I recently earned a B.S. in Electrical and Computer Engineering with a Mathematics Minor from Lafayette College.
+I’m Scott Torzewski, an electrical engineer focused on hardware and integrated circuit design. I’m currently pursuing an M.S. in Electrical Engineering at Columbia University, with a focus on Integrated Circuits & Systems, after earning a B.S. in Electrical and Computer Engineering with a Mathematics Minor from Lafayette College.
 
-- 🔬 I’m focused on designing and prototyping hardare systems that integrate optoelectronics, biophotonics, and data analysis to support physiological monitoring and therapeutic technologies.
-- 🧬 My interests center on advancing bioinstrumentation through novel analog & mixed-signal IC design architectures.
-- 💿 I enjoy tackling interdisciplinary challenges, translating research into real-world solutions, and exploring the intersection of light-based technologies and human health.
+- 🔬 I’m focused on designing and prototyping electronic systems spanning analog, mixed-signal, digital, and embedded hardware.
+- 🧬 My interests center on integrated circuits, sensing systems, and the intersection of electronics, photonics, and biotechnology.
+- 💿 I enjoy tackling interdisciplinary engineering challenges, translating concepts into working hardware, and exploring how advanced electronics can enable new sensing and instrumentation technologies.
 - 💡 Outside the lab, I build 3D designs, solder electronics, play the piano, and snowboard.
 
 <!---
