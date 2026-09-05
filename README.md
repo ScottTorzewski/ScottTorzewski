@@ -23,7 +23,7 @@ I’m Scott Torzewski, an electrical engineer focused on hardware and integrated
 
 - 🔬 I’m focused on designing and prototyping electronic systems spanning analog, mixed-signal, digital, and embedded hardware.
 - 🧬 My interests center on integrated circuits, sensing systems, and the intersection of electronics, photonics, and biotechnology.
-- 💿 I enjoy tackling interdisciplinary engineering challenges, translating concepts into working hardware, and exploring how electronics can enable new sensing technologies.
+- 💿 I enjoy tackling interdisciplinary engineering challenges and translating concepts into working hardware through an end-to-end design process.
 - 💡 Outside the lab, I build 3D designs, solder electronics, play the piano, and snowboard.
 
 <!---
